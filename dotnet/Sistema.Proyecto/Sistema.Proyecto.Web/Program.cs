@@ -2,6 +2,7 @@ using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using Sistema.Proyecto.EntityFramework.SistemaDbContext;
 using Sistema.Proyecto.Web;
+using Sistema.Proyecto.Web.Middleware;
 using System.ComponentModel.DataAnnotations;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -19,7 +20,7 @@ builder.Services.AddHttpContextAccessor();
 var mapperConfig = new MapperConfiguration(m => m.AddProfile(new DtoMappings()));
 IMapper mapper = mapperConfig.CreateMapper();
 builder.Services.AddSingleton(mapper);
-
+IoC.AddDependency(builder.Services);
 
 var app = builder.Build();
 

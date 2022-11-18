@@ -1,0 +1,17 @@
+C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.EntityFramework\bin\Debug\net6.0\Sistema.Proyecto.EntityFramework.deps.json
+C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.EntityFramework\bin\Debug\net6.0\Sistema.Proyecto.EntityFramework.runtimeconfig.json
+C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.EntityFramework\bin\Debug\net6.0\Sistema.Proyecto.EntityFramework.dll
+C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.EntityFramework\bin\Debug\net6.0\Sistema.Proyecto.EntityFramework.pdb
+C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.EntityFramework\bin\Debug\net6.0\Sistema.Proyecto.Core.dll
+C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.EntityFramework\bin\Debug\net6.0\Sistema.Proyecto.Core.pdb
+C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.EntityFramework\obj\Debug\net6.0\Sistema.Proyecto.EntityFramework.csproj.AssemblyReference.cache
+C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.EntityFramework\obj\Debug\net6.0\Sistema.Proyecto.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.EntityFramework\obj\Debug\net6.0\Sistema.Proyecto.EntityFramework.AssemblyInfoInputs.cache
+C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.EntityFramework\obj\Debug\net6.0\Sistema.Proyecto.EntityFramework.AssemblyInfo.cs
+C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.EntityFramework\obj\Debug\net6.0\Sistema.Proyecto.EntityFramework.csproj.CoreCompileInputs.cache
+C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.EntityFramework\obj\Debug\net6.0\Sistema.Proyecto.EntityFramework.csproj.CopyComplete
+C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.EntityFramework\obj\Debug\net6.0\Sistema.Proyecto.EntityFramework.dll
+C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.EntityFramework\obj\Debug\net6.0\refint\Sistema.Proyecto.EntityFramework.dll
+C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.EntityFramework\obj\Debug\net6.0\Sistema.Proyecto.EntityFramework.pdb
+C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.EntityFramework\obj\Debug\net6.0\Sistema.Proyecto.EntityFramework.genruntimeconfig.cache
+C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.EntityFramework\obj\Debug\net6.0\ref\Sistema.Proyecto.EntityFramework.dll
