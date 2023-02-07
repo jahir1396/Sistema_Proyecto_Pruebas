@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -41,6 +42,11 @@ namespace Sistema.Proyecto.EntityFramework.SistemaDbContext
             builder.Entity<CatPersona>()
                 .HasIndex(u => u.Email)
                 .IsUnique();
+            //Ejemplo de relaciones muchos a muchos
+            //modelBuilder.Entity<CatFirmaSociedad>()
+            //    .HasMany(e => e.Firmas)
+            //    .WithMany(e => e.Sociedades)
+            //    .Map(m => m.ToTable("OpeFirmaSociedad").MapLeftKey("IdSociedad").MapRightKey("IdFirma"));
         }
 
     }

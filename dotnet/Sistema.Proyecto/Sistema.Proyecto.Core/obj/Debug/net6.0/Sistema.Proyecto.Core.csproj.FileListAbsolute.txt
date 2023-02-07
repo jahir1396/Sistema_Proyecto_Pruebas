@@ -10,3 +10,15 @@ C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\o
 C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\refint\Sistema.Proyecto.Core.dll
 C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.pdb
 C:\VisualStudio\Sistema.Proyecto\dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\ref\Sistema.Proyecto.Core.dll
+C:\GIT\ProyectosTest\Sistema_Proyecto_Pruebas\dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\bin\Debug\net6.0\Sistema.Proyecto.Core.deps.json
+C:\GIT\ProyectosTest\Sistema_Proyecto_Pruebas\dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\bin\Debug\net6.0\Sistema.Proyecto.Core.dll
+C:\GIT\ProyectosTest\Sistema_Proyecto_Pruebas\dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\bin\Debug\net6.0\Sistema.Proyecto.Core.pdb
+C:\GIT\ProyectosTest\Sistema_Proyecto_Pruebas\dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.csproj.AssemblyReference.cache
+C:\GIT\ProyectosTest\Sistema_Proyecto_Pruebas\dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\ProyectosTest\Sistema_Proyecto_Pruebas\dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.AssemblyInfoInputs.cache
+C:\GIT\ProyectosTest\Sistema_Proyecto_Pruebas\dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.AssemblyInfo.cs
+C:\GIT\ProyectosTest\Sistema_Proyecto_Pruebas\dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.csproj.CoreCompileInputs.cache
+C:\GIT\ProyectosTest\Sistema_Proyecto_Pruebas\dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.dll
+C:\GIT\ProyectosTest\Sistema_Proyecto_Pruebas\dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\refint\Sistema.Proyecto.Core.dll
+C:\GIT\ProyectosTest\Sistema_Proyecto_Pruebas\dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.pdb
+C:\GIT\ProyectosTest\Sistema_Proyecto_Pruebas\dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\ref\Sistema.Proyecto.Core.dll

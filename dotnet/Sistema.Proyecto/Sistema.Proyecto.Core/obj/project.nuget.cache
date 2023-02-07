@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w+DjvmSI9p0/F0iohNDNHbdQCuBZp7LVXjZOzfzZd9wYQ40wuXbHR0OXIJ5pbDskSWZ0JUYhhHO7wCKKTJ9dSA==",
+  "dgSpecHash": "jabsM/SFkE8lJ07+As+1pzH6gQcSUReQKfRedTqPNsVm/uMATLNgpaIQO91SFplhwawuqxnh7uydznQZq7/xJQ==",
   "success": true,
-  "projectFilePath": "C:\\VisualStudio\\Sistema.Proyecto\\dotnet\\Sistema.Proyecto\\Sistema.Proyecto.Core\\Sistema.Proyecto.Core.csproj",
+  "projectFilePath": "C:\\GIT\\ProyectosTest\\Sistema_Proyecto_Pruebas\\dotnet\\Sistema.Proyecto\\Sistema.Proyecto.Core\\Sistema.Proyecto.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

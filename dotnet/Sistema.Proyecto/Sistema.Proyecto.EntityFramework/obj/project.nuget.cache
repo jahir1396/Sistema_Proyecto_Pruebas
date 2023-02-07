@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hqbo3uX/GtHDOqHWdVU52OD/HAF0Q54bqj1aLls9iVNGlieKYYmdxqfMwhNfHgWdi8nprMG6UEb8OvEHbVxHlw==",
+  "dgSpecHash": "SoeEE/vmYkxpYIi7hs5RzbPAK+r3ifb9yOMxPQkvjbuheJI3NvYgCAHgd6/nSSCfrTZ9AGYQtp2JlOGl/uXGGw==",
   "success": true,
-  "projectFilePath": "C:\\VisualStudio\\Sistema.Proyecto\\dotnet\\Sistema.Proyecto\\Sistema.Proyecto.EntityFramework\\Sistema.Proyecto.EntityFramework.csproj",
+  "projectFilePath": "C:\\GIT\\ProyectosTest\\Sistema_Proyecto_Pruebas\\dotnet\\Sistema.Proyecto\\Sistema.Proyecto.EntityFramework\\Sistema.Proyecto.EntityFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jahir\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jahir\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

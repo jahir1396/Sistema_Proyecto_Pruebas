@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wySprVBHfEIRu8I5ARHYZ2Bbl5+dq5Iu4ieOMDV5pSa2cpaK5Rb1YfXSdlETxWgtKOdCMzJ074vdqgu/bBMC0g==",
+  "dgSpecHash": "IYWzj9PjX3uU2rtcah3O/ImXrecaC9FnvV+RjIkyziannawK43vOyMLeE/6p0Caa4RO+732Py1ObOpORpzyr2g==",
   "success": true,
-  "projectFilePath": "C:\\VisualStudio\\Sistema.Proyecto\\dotnet\\Sistema.Proyecto\\Sistema.Proyecto.Web\\Sistema.Proyecto.Web.csproj",
+  "projectFilePath": "C:\\GIT\\ProyectosTest\\Sistema_Proyecto_Pruebas\\dotnet\\Sistema.Proyecto\\Sistema.Proyecto.Web\\Sistema.Proyecto.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jahir\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\jahir\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
@@ -60,6 +60,7 @@
     "C:\\Users\\jahir\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\jahir\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\jahir\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jahir\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\jahir\\.nuget\\packages\\microsoft.visualstudio.debugger.contracts\\17.2.0\\microsoft.visualstudio.debugger.contracts.17.2.0.nupkg.sha512",
     "C:\\Users\\jahir\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\6.0.10\\microsoft.visualstudio.web.codegeneration.6.0.10.nupkg.sha512",
     "C:\\Users\\jahir\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\6.0.10\\microsoft.visualstudio.web.codegeneration.core.6.0.10.nupkg.sha512",

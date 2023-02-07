@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VisualStudio\\Sistema.Proyecto\\dotnet\\Sistema.Proyecto\\Sistema.Proyecto.Core\\Sistema.Proyecto.Core.csproj",
+      "projectUniqueName": "C:\\GIT\\ProyectosTest\\Sistema_Proyecto_Pruebas\\dotnet\\Sistema.Proyecto\\Sistema.Proyecto.Core\\Sistema.Proyecto.Core.csproj",
       "projectName": "Sistema.Proyecto.Core",
-      "projectPath": "C:\\VisualStudio\\Sistema.Proyecto\\dotnet\\Sistema.Proyecto\\Sistema.Proyecto.Core\\Sistema.Proyecto.Core.csproj",
+      "projectPath": "C:\\GIT\\ProyectosTest\\Sistema_Proyecto_Pruebas\\dotnet\\Sistema.Proyecto\\Sistema.Proyecto.Core\\Sistema.Proyecto.Core.csproj",
       "packagesPath": "C:\\Users\\jahir\\.nuget\\packages\\",
-      "outputPath": "C:\\VisualStudio\\Sistema.Proyecto\\dotnet\\Sistema.Proyecto\\Sistema.Proyecto.Core\\obj\\",
+      "outputPath": "C:\\GIT\\ProyectosTest\\Sistema_Proyecto_Pruebas\\dotnet\\Sistema.Proyecto\\Sistema.Proyecto.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
