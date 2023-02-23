@@ -1,0 +1,60 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: webapideploy
+  labels:
+    app: product-app
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: product-app
+      service: webapi
+  template:
+    metadata:
+      labels:
+        app: product-app
+        service: webapi
+    spec:
+      containers:
+        - name: webapicontainer
+          image: jahir131296/test-proyectos:system-project-img
+          ports:
+            - containerPort: 5000
+              protocol: TCP
+          env:
+            - name: ConnectionStrings__SistemaConexion
+              value: Server=mssqlservice;Database=DB_SISTEMA_PROYECTO;User=sa;Password=Jahir.Lopez
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: webapiservice
+  labels:
+    app: product-app
+    service: webapi
+spec:
+  type: NodePort
+  ports:
+    - port: 5000
+      targetPort : 5000
+      protocol: TCP
+  selector:
+    service: webapi
+---
+apiVersion: v1
+kind: Pod
+metadata:
+    name: webapipod
+    labels:
+        app: product-app
+        service: webapi
+spec:
+    containers:
+        - name: webapicontainer
+          image: jahir131296/test-proyectos:system-project-img
+          ports:
+            - containerPort: 5000
+          env:
+            - name: ConnectionStrings__SistemaConexion
+              value: Server=mssqlservice;Database=DB_SISTEMA_PROYECTO;User=sa;Password=Jahir.Lopez
