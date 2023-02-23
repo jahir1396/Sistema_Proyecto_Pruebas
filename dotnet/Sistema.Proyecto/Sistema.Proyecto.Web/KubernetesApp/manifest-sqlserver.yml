@@ -26,9 +26,40 @@ spec:
         - name: mssqlcontainer
           image: mcr.microsoft.com/mssql/server:2022-latest
           ports:
-            - containerPort: 1433              
+            - containerPort: 1433
           env:
             - name: ACCEPT_EULA
               value: "Y"
             - name: SA_PASSWORD
               value: "Jahir.Lopez"
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+    name: mssqldeploy
+    labels:
+        name: mssqldeploy
+        app: app
+spec:
+    replicas: 1
+    selector:
+        matchLabels:
+            app: product-app
+            name: mssqlpod
+    template:
+        metadata:
+            name: mssqlpod
+            labels:
+                app: product-app
+                name: mssqlpod
+        spec:
+            containers:
+                - name: mssqlcontainer
+                  image: mcr.microsoft.com/mssql/server:2022-latest
+                  ports:
+                    - containerPort: 1433
+                  env:
+                    - name: ACCEPT_EULA
+                      value: "Y"
+                    - name: SA_PASSWORD
+                      value: "Jahir.Lopez"
